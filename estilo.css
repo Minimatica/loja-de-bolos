@@ -1,0 +1,18 @@
+body{
+    background-color:#131313 ;
+    color:  #E0DED1;
+}
+
+.site-todo{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cabecalho{
+    text-align: center;
+    background-image: url(img/bannerdoicon.png);
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
